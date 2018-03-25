@@ -25,12 +25,9 @@ app.post('/', function (req, res) {
       if(weather.main == undefined){
         res.render('index', {weather: null, error: 'Dude, enter correct city naa!'});
       } else {
-        let weatherText = `It's ${weather.main.temp} degrees celcius in ${weather.name}! `;
+        let weatherText = `Woah! It's ${weather.main.temp} degrees celcius in ${weather.name}! `;
         res.render('index', {weather: weatherText, error: null});
-        if (weather.main.temp>40)
-                   weatherText = `Too hot man!`;
-                else if (weather.main.temp<10)
-                                       weatherText = `Too cold man!`;
+      
 
       }
     }

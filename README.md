@@ -1,5 +1,7 @@
 # Weather Information App By Piyush Mehta
+
 ## File structure
+
 ```structure
 |-- weather-app
    |-- views
@@ -9,4 +11,4 @@
          |-- style.css
    |-- package.json
    |-- server.js
-   ```
+```

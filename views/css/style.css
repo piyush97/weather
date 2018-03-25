@@ -1,22 +1,20 @@
-    .jumbotron
-    {
-          background-color: #9933CC;
-    color: white;  
+    .jumbotron {
+      background-color: #9933CC;
+      color: white;
     }
-    .container
-    {
+
+    .container {
       position: fixed;
-    
-    width: 100%;
-    text-align: center;
-
+      width: 100%;
+      text-align: center;
     }
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #9933CC;
-    color: white;    text-align: center;
 
-}
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #9933CC;
+      color: white;
+      text-align: center;
+    }

@@ -3,6 +3,7 @@
 ## File structure
 
 ```structure
+|-- node_modules
 |-- weather-app
    |-- views
       |-- index.ejs
@@ -12,6 +13,13 @@
    |-- package.json
    |-- server.js
 ```
+
+## Technologies used
+1. NodeJS
+
+## Api used
+1. openweathermap
+
 ## How to deploy this app?
 
 ```bash

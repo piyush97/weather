@@ -26,4 +26,4 @@ $ node server.js
 ### HEROKU
 https://weatherbypiyush.herokuapp.com/
 
-[!app](https://drive.google.com/file/d/1XZE4vZF77CaKp-BqpTO9jQAhoA47P1kp/view?usp=sharing)
+![app](https://drive.google.com/file/d/1XZE4vZF77CaKp-BqpTO9jQAhoA47P1kp/view?usp=sharing)

@@ -1,9 +1,8 @@
 const express = require('express')
-app.set('view engine', 'ejs')
 const app = express()
 
 app.get('/', function (req, res) {
-  // NEW CODE
+app.set('view engine', 'ejs')
   res.render('index');
 })
 

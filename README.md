@@ -22,3 +22,6 @@ $ cd weather
 $ node server.js
 // Weather App is running on port 3000
 ```
+
+### HEROKU
+https://weatherbypiyush.herokuapp.com/
